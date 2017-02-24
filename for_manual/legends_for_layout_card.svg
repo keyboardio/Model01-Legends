@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="manual_legends.svg"
+   sodipodi:docname="legends_for_layout_card.svg"
    inkscape:export-filename="homerow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -56,9 +56,9 @@
      inkscape:snap-path-clip="true"
      inkscape:snap-path-mask="true"
      inkscape:snap-global="false"
-     inkscape:zoom="0.38918495"
-     inkscape:cx="1201.9067"
-     inkscape:cy="644.71623"
+     inkscape:zoom="0.27519532"
+     inkscape:cx="412.34824"
+     inkscape:cy="1076.9572"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -751,8 +751,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="keys"
-     style="display:none;opacity:1"
+     inkscape:label="key edges"
+     style="display:inline;opacity:1"
      transform="translate(0,-1.6784668e-4)"
      sodipodi:insensitive="true">
     <ellipse
@@ -2918,7 +2918,7 @@
   </g>
   <g
      transform="translate(0,-1.6784668e-4)"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      inkscape:label="homerow"
      id="g10653"
      inkscape:groupmode="layer">
@@ -9596,6 +9596,1093 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g5354"
+     inkscape:label="qwerty_for_layout_card"
+     style="display:inline;opacity:1">
+    <text
+       id="text5356"
+       class="kio-label"
+       transform="matrix(0.9781476,0.2079117,-0.2079117,0.9781476,0,0)"
+       x="456.03131"
+       y="169.29042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="513.03131"
+         y="347.29041"
+         id="tspan5358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">q</tspan>
+    </text>
+    <text
+       id="text5360"
+       class="kio-label"
+       transform="matrix(0.97029573,0.2419219,-0.2419219,0.97029573,0,0)"
+       x="-477.89581"
+       y="538.20197"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="651.93945"
+         y="264.44452"
+         id="tspan5362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">w</tspan>
+    </text>
+    <text
+       id="text5364"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="455.68771"
+       y="74.955154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="792.68768"
+         y="222.95515"
+         id="tspan5366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">e</tspan>
+    </text>
+    <text
+       id="text5368"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="482.86053"
+       y="-4.8437328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1057.8604"
+         y="246.15625"
+         id="tspan5370"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">t</tspan>
+    </text>
+    <text
+       id="text5372"
+       class="kio-label"
+       transform="matrix(0.98162718,0.190809,-0.190809,0.98162718,0,0)"
+       x="468.89224"
+       y="182.85034"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="505.89221"
+         y="479.85034"
+         id="tspan5374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">a</tspan>
+    </text>
+    <text
+       id="text5376"
+       class="kio-label"
+       transform="matrix(0.97029572,0.2419219,-0.2419219,0.97029572,0,0)"
+       x="479.1553"
+       y="124.10503"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="653.15503"
+         y="383.10501"
+         id="tspan5378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">s</tspan>
+    </text>
+    <text
+       id="text5380"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="482.83005"
+       y="76.900826"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="788.82996"
+         y="340.90088"
+         id="tspan5382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">d</tspan>
+    </text>
+    <text
+       id="text5384"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="509.63055"
+       y="-7.9189301"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1052.6306"
+         y="356.08102"
+         id="tspan5386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">g</tspan>
+    </text>
+    <text
+       id="text5388"
+       class="kio-label"
+       transform="matrix(0.98162718,0.190809,-0.190809,0.98162718,0,0)"
+       x="498.05841"
+       y="171.21947"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="504.05841"
+         y="604.21954"
+         id="tspan5390"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">z</tspan>
+    </text>
+    <text
+       id="text5392"
+       class="kio-label"
+       transform="matrix(0.97029572,0.2419219,-0.2419219,0.97029572,0,0)"
+       x="517.3399"
+       y="96.954536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="656.33984"
+         y="522.95465"
+         id="tspan5394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">x</tspan>
+    </text>
+    <text
+       id="text5396"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="523.58105"
+       y="60.160049"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="792.58093"
+         y="472.16013"
+         id="tspan5398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">c</tspan>
+    </text>
+    <text
+       id="text5400"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="542.09747"
+       y="14.760063"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1054.0974"
+         y="496.76007"
+         id="tspan5402"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">b</tspan>
+    </text>
+    <text
+       id="text5404"
+       class="kio-label"
+       transform="matrix(0.97029572,0.2419219,-0.2419219,0.97029572,0,0)"
+       x="428.74155"
+       y="116.55526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="656.74133"
+         y="142.55531"
+         id="tspan5406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">2</tspan>
+    </text>
+    <text
+       id="text5408"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="427.10147"
+       y="81.831482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="793.10144"
+         y="107.83149"
+         id="tspan5410"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">3</tspan>
+    </text>
+    <text
+       id="text5412"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="428.02618"
+       y="30.019953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="924.02612"
+         y="95.019974"
+         id="tspan5414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">4</tspan>
+    </text>
+    <text
+       id="text5416"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="439.00903"
+       y="-20.241009"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1049.0089"
+         y="114.75898"
+         id="tspan5418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">5</tspan>
+    </text>
+    <text
+       id="text5420"
+       class="kio-label"
+       transform="matrix(0.97029573,-0.2419219,0.2419219,0.97029573,0,0)"
+       x="214.1335"
+       y="604.98364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1411.1335"
+         y="755.98364"
+         id="tspan5422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">6</tspan>
+    </text>
+    <text
+       id="text5424"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="199.68166"
+       y="694.27454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1509.6819"
+         y="785.27454"
+         id="tspan5426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">7</tspan>
+    </text>
+    <text
+       id="text5428"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="210.00668"
+       y="733.95496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1639.007"
+         y="783.95496"
+         id="tspan5430"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">8</tspan>
+    </text>
+    <text
+       id="text5432"
+       class="kio-label"
+       transform="matrix(0.97029573,-0.2419219,0.2419219,0.97029573,0,0)"
+       x="235.14015"
+       y="704.99933"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1800.1403"
+         y="745.99933"
+         id="tspan5434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">9</tspan>
+    </text>
+    <text
+       id="text5436"
+       class="kio-label"
+       transform="matrix(0.9781476,-0.2079117,0.2079117,0.9781476,0,0)"
+       x="246.01608"
+       y="650.90717"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1962.0162"
+         y="722.90717"
+         id="tspan5438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">0</tspan>
+    </text>
+    <text
+       id="text5440"
+       class="kio-label"
+       transform="matrix(0.97029573,-0.2419219,0.2419219,0.97029573,0,0)"
+       x="188.93622"
+       y="610.99652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1413.9365"
+         y="877.99652"
+         id="tspan5442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">y</tspan>
+    </text>
+    <text
+       id="text5444"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="169.19989"
+       y="702.55658"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1508.2001"
+         y="907.55658"
+         id="tspan5446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">u</tspan>
+    </text>
+    <text
+       id="text5448"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="178.69789"
+       y="733.34375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1637.6981"
+         y="900.34375"
+         id="tspan5450"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">i</tspan>
+    </text>
+    <text
+       id="text5452"
+       class="kio-label"
+       transform="matrix(0.97029573,-0.2419219,0.2419219,0.97029573,0,0)"
+       x="206.36552"
+       y="708.90179"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1801.3655"
+         y="868.90179"
+         id="tspan5454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">o</tspan>
+    </text>
+    <text
+       id="text5456"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="122.65102"
+       y="673.52863"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1381.6511"
+         y="1056.5286"
+         id="tspan5458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">h</tspan>
+    </text>
+    <text
+       id="text5460"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="145.44749"
+       y="701.58746"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1519.4475"
+         y="1024.5876"
+         id="tspan5462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">j</tspan>
+    </text>
+    <text
+       id="text5464"
+       class="kio-label"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       x="155.91878"
+       y="713.88525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1647.9188"
+         y="993.88507"
+         id="tspan5466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">k</tspan>
+    </text>
+    <text
+       id="text5468"
+       class="kio-label"
+       transform="matrix(0.97029573,-0.2419219,0.2419219,0.97029573,0,0)"
+       x="-653.2019"
+       y="-2093.7241"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1808.4995"
+         y="992.909"
+         id="tspan5470"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">l</tspan>
+    </text>
+    <text
+       id="text5472"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="79.389946"
+       y="670.37628"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1378.39"
+         y="1182.376"
+         id="tspan5474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">n</tspan>
+    </text>
+    <text
+       id="text5476"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="87.425461"
+       y="700.47839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1497.4257"
+         y="1154.4783"
+         id="tspan5478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">m</tspan>
+    </text>
+    <text
+       id="text5480"
+       class="kio-label"
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       x="241.2359"
+       y="639.22101"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1977.2358"
+         y="829.22101"
+         id="tspan5482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">p</tspan>
+    </text>
+    <text
+       id="text5484"
+       class="kio-label"
+       transform="matrix(0.8571673,0.51503807,-0.51503807,0.8571673,0,0)"
+       x="538.05054"
+       y="-258.36935"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1115.2766"
+         y="316.50134"
+         id="tspan5486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Ctrl</tspan>
+    </text>
+    <text
+       id="text5488"
+       class="kio-label"
+       transform="matrix(0.76604444,0.64278761,-0.64278761,0.76604444,0,0)"
+       x="591.79535"
+       y="-540.67828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1247.7953"
+         y="119.32182"
+         id="tspan5490"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">BkSp</tspan>
+    </text>
+    <text
+       id="text5492"
+       class="kio-label"
+       transform="matrix(0.64278761,0.76604444,-0.76604444,0.64278761,0,0)"
+       x="618.0304"
+       y="-832.28107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1364.7664"
+         y="-113.87068"
+         id="tspan5494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Cmd</tspan>
+    </text>
+    <text
+       id="text5496"
+       class="kio-label"
+       transform="matrix(0.51503807,0.8571673,-0.8571673,0.51503807,0,0)"
+       x="628.71558"
+       y="-1148.0649"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1439.9341"
+         y="-340.76721"
+         id="tspan5498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Shift</tspan>
+    </text>
+    <text
+       id="text5500"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="364.90881"
+       y="-42.754822"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1169.9091"
+         y="354.24512"
+         id="tspan5502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">Tab</tspan>
+    </text>
+    <text
+       id="text5504"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="414.54163"
+       y="-21.045433"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1173.575"
+         y="522.34711"
+         id="tspan5506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">Esc</tspan>
+    </text>
+    <text
+       id="text5508"
+       class="kio-label"
+       transform="matrix(0.96126169,0.27563736,-0.27563736,0.96126169,0,0)"
+       x="305.5047"
+       y="-75.309837"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="1152.5046"
+         y="174.69011"
+         id="tspan5510"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">LED</tspan>
+    </text>
+    <text
+       id="text5512"
+       class="kio-label"
+       transform="matrix(0.98162718,0.190809,-0.190809,0.98162718,0,0)"
+       x="330.13855"
+       y="224.0759"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="345.13855"
+         y="474.07596"
+         id="tspan5514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">PgUp</tspan>
+    </text>
+    <text
+       id="text5516"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="12.724539"
+       y="623.06482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1247.7249"
+         y="875.06482"
+         id="tspan5518"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Any</tspan>
+    </text>
+    <text
+       id="text5520"
+       class="kio-label"
+       transform="matrix(0.96126169,-0.27563736,0.27563736,0.96126169,0,0)"
+       x="-35.377316"
+       y="642.10468"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1230.6228"
+         y="1040.1049"
+         id="tspan5522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Enter</tspan>
+    </text>
+    <text
+       id="text5524"
+       class="kio-label"
+       transform="matrix(0.51503807,-0.8571673,0.8571673,0.51503807,0,0)"
+       x="-1445.0173"
+       y="1049.6875"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="-190.16122"
+         y="1853.9724"
+         id="tspan5526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Shift</tspan>
+    </text>
+    <text
+       id="text5528"
+       class="kio-label"
+       transform="matrix(0.65605903,-0.75470958,0.75470958,0.65605903,0,0)"
+       x="-1071.3085"
+       y="1130.316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="258.69174"
+         y="1842.316"
+         id="tspan5530"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Alt</tspan>
+    </text>
+    <text
+       id="text5532"
+       class="kio-label"
+       transform="matrix(0.77714596,-0.62932039,0.62932039,0.77714596,0,0)"
+       x="-738.13525"
+       y="1095.0427"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="678.86475"
+         y="1754.0427"
+         id="tspan5534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Spc</tspan>
+    </text>
+    <text
+       id="text5536"
+       class="kio-label"
+       transform="matrix(0.8829476,-0.46947155,0.46947155,0.8829476,0,0)"
+       x="-395.44339"
+       y="1011.7106"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1110.2565"
+         y="1577.7012"
+         id="tspan5538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Ctrl</tspan>
+    </text>
+    <text
+       id="text5540"
+       class="kio-label"
+       transform="matrix(0.97437006,-0.22495106,0.22495106,0.97437006,0,0)"
+       x="13.098958"
+       y="747.33173"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1952.099"
+         y="1148.3317"
+         id="tspan5542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;" />
+    </text>
+    <text
+       id="text5544"
+       class="kio-label"
+       transform="matrix(0.98480775,-0.17364818,0.17364818,0.98480775,0,0)"
+       x="119.52544"
+       y="638.08356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="2101.5256"
+         y="667.08356"
+         id="tspan5546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Num</tspan>
+    </text>
+    <text
+       id="text5548"
+       class="kio-label"
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       x="58.2901"
+       y="720.99396"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">
+      <tspan
+         x="2079.2903"
+         y="857.99396"
+         id="tspan5550"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;" />
+    </text>
+    <text
+       id="text5552"
+       class="kio-label"
+       transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,0,0)"
+       x="341.06818"
+       y="232.90749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="344.06818"
+         y="614.90735"
+         id="tspan5554"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">PgDn</tspan>
+    </text>
+    <text
+       id="text5556"
+       class="kio-label"
+       transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,0,0)"
+       x="429.25327"
+       y="164.68991"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">
+      <tspan
+         x="506.25327"
+         y="224.68991"
+         id="tspan5558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">1</tspan>
+    </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;fill:#000000;fill-opacity:1"
+       y="190.88791"
+       x="261.7059"
+       transform="matrix(0.98162718,0.190809,-0.190809,0.98162718,0,0)"
+       class="kio-label"
+       id="text5560">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1"
+         id="tspan5562"
+         y="218.88803"
+         x="358.7059">Prog</tspan>
+    </text>
+    <text
+       transform="matrix(0.97029572,0.2419219,-0.2419219,0.97029572,0,0)"
+       sodipodi:linespacing="125%"
+       id="text5564"
+       y="343.80048"
+       x="681.62946"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="343.80048"
+         x="681.62946"
+         id="tspan5566"
+         sodipodi:role="line" /></text>
+    <text
+       transform="matrix(0.9781476,0.2079117,-0.2079117,0.9781476,0,0)"
+       sodipodi:linespacing="125%"
+       id="text5568"
+       y="429.94052"
+       x="536.7644"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="429.94052"
+         x="536.7644"
+         id="tspan5570"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot5572"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5574"><rect
+           y="529.85101"
+           x="2143.9319"
+           height="52.68985"
+           width="18.168913"
+           id="rect5576"
+           style="fill:#000000;" /></flowRegion><flowPara
+         id="flowPara5578" /></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot5580"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5582"><rect
+           y="976.80627"
+           x="2147.5657"
+           height="45.422283"
+           width="43.605392"
+           id="rect5584"
+           style="fill:#000000;" /></flowRegion><flowPara
+         id="flowPara5586" /></flowRoot>    <text
+       id="text5588"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="649.922"
+       y="68.719604"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;opacity:1;fill:#000000;fill-opacity:1">
+      <tspan
+         x="918.92188"
+         y="480.71964"
+         id="tspan5590"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">v</tspan>
+    </text>
+    <text
+       id="text5592"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="587.92096"
+       y="84.780952"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;opacity:1;fill:#000000;fill-opacity:1">
+      <tspan
+         x="924.92096"
+         y="232.78096"
+         id="tspan5594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">r</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5596"
+       y="924.11633"
+       x="1696.9764"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="924.11633"
+         x="1696.9764"
+         id="tspan5598"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       transform="translate(0,-6.1035156e-5)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot5600"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5602"><rect
+           y="678.83606"
+           x="2182.0864"
+           height="122.18594"
+           width="40.880054"
+           id="rect5604"
+           style="fill:#000000;" /></flowRegion><flowPara
+         id="flowPara5606">??/?</flowPara><flowPara
+         id="flowPara5608" /></flowRoot>    <text
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       sodipodi:linespacing="76.999998%"
+       id="text5611"
+       y="821.75006"
+       x="2130.4065"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:76.99999809%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:76.99999809%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="821.75006"
+         x="2130.4065"
+         sodipodi:role="line">+</tspan><tspan
+         id="tspan5616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:76.99999809%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="860.25006"
+         x="2130.4065"
+         sodipodi:role="line">=</tspan></text>
+    <text
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       sodipodi:linespacing="125%"
+       id="text5619"
+       y="1054.0448"
+       x="1988.5839"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5621"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;"
+         y="1054.0448"
+         x="1988.5839"
+         sodipodi:role="line">?</tspan><tspan
+         id="tspan5625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;"
+         y="1105.5448"
+         x="1988.5839"
+         sodipodi:role="line">/</tspan></text>
+    <text
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       sodipodi:linespacing="83.999997%"
+       id="text5627"
+       y="927.8045"
+       x="1987.1881"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:83.99999738%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:83.99999738%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;"
+         y="927.8045"
+         x="1987.1881"
+         sodipodi:role="line">:</tspan><tspan
+         id="tspan5631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:83.99999738%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;"
+         y="969.8045"
+         x="1987.1881"
+         sodipodi:role="line">;</tspan></text>
+    <text
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       sodipodi:linespacing="125%"
+       id="text5635"
+       y="1047.0875"
+       x="2124.5964"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1047.0875"
+         x="2124.5964"
+         sodipodi:role="line">_</tspan><tspan
+         id="tspan5641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1098.5875"
+         x="2124.5964"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       transform="matrix(0.98162718,-0.190809,0.190809,0.98162718,0,0)"
+       sodipodi:linespacing="73.000002%"
+       id="text5643"
+       y="951.29639"
+       x="2133.1987"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:73.00000191%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:73.00000191%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="951.29639"
+         x="2133.1987"
+         sodipodi:role="line">&quot;</tspan><tspan
+         id="tspan5649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:73.00000191%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="987.79639"
+         x="2133.1987"
+         sodipodi:role="line">'</tspan></text>
+    <text
+       id="text5651"
+       class="kio-label"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       x="620.06451"
+       y="91.918488"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;opacity:1;fill:#000000;fill-opacity:1">
+      <tspan
+         x="926.06445"
+         y="355.91858"
+         id="tspan5653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1">f</tspan>
+    </text>
+    <g
+       style="display:inline;opacity:1;fill:#000000"
+       transform="matrix(2.0882416,-0.59879367,0.59879367,2.0882416,-26.73462,1570.3725)"
+       id="g5655">
+      <g
+         style="fill:#000000"
+         id="g5657">
+        <g
+           style="fill:#000000"
+           transform="matrix(1.25,0,0,-1.25,-12.300007,514.54613)"
+           id="g5659">
+          <g
+             style="fill:#000000"
+             id="g5661"
+             clip-path="url(#clipPath27934)">
+            <g
+               style="fill:#000000"
+               id="g5663"
+               transform="translate(647.8584,527.77)">
+              <path
+                 d="m 0,0 c -0.544,0 -0.991,-0.897 -0.991,-2.442 0,-1.547 0.4,-4.83 0.991,-4.831 0.593,10e-4 0.993,3.284 0.993,4.831 C 0.993,-0.897 0.545,0 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5665"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#000000"
+           id="g5667"
+           transform="matrix(1.25,0,0,-1.25,796.93949,-145.79501)">
+          <path
+             d="M 0,0 -0.869,1.672 -1.302,1.445 -0.432,-0.224 0,0 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5669"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="fill:#000000"
+           id="g5671"
+           transform="matrix(1.25,0,0,-1.25,799.72024,-147.60237)">
+          <path
+             d="M 0,0 -0.433,0.227 -1.303,-1.445 -0.87,-1.669 0,0 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5673"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="fill:#000000"
+           transform="matrix(1.25,0,0,-1.25,-12.300007,514.54613)"
+           id="g5675">
+          <g
+             style="fill:#000000"
+             id="g5677"
+             clip-path="url(#clipPath27954)">
+            <g
+               style="fill:#000000"
+               id="g5679"
+               transform="translate(638.5049,532.1479)">
+              <path
+                 d="m 0,0 c -1.045,0.248 -1.646,-0.383 -1.456,-1.63 0.397,-2.613 1.334,-4.22 3.332,-4.706 1.52,-0.372 5.691,-0.515 5.691,-0.515 C 6.714,-2.684 2.561,-0.609 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5681"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#000000"
+           transform="matrix(1.25,0,0,-1.25,-12.300007,514.54613)"
+           id="g5683">
+          <g
+             style="fill:#000000"
+             id="g5685"
+             clip-path="url(#clipPath27966)">
+            <g
+               style="fill:#000000"
+               id="g5687"
+               transform="translate(646.125,524.4761)">
+              <path
+                 d="m 0,0 c 0,0 -1.825,0.145 -3.053,0.04 -1.564,-0.131 -2.513,-0.656 -2.513,-2.468 0,-2.654 2.551,-3.851 3.855,-3.781 0.539,0.026 1.46,1.13 1.783,1.987 0.211,0.563 0.306,1.084 0.229,1.894 C 0.254,-1.832 0,0 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5689"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#000000"
+           transform="matrix(1.25,0,0,-1.25,-12.300007,514.54613)"
+           id="g5691">
+          <g
+             style="fill:#000000"
+             id="g5693"
+             clip-path="url(#clipPath27978)">
+            <g
+               style="fill:#000000"
+               id="g5695"
+               transform="translate(657.2002,532.1475)">
+              <path
+                 d="m 0,0 c -2.56,-0.609 -6.713,-2.683 -7.567,-6.851 0,0 4.171,0.144 5.69,0.516 2.001,0.485 2.937,2.092 3.333,4.706 C 1.646,-0.382 1.045,0.249 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5697"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="fill:#000000"
+           transform="matrix(1.25,0,0,-1.25,-12.300007,514.54613)"
+           id="g5699">
+          <g
+             style="fill:#000000"
+             id="g5701"
+             clip-path="url(#clipPath27990)">
+            <g
+               style="fill:#000000"
+               id="g5703"
+               transform="translate(652.6338,524.5161)">
+              <path
+                 d="m 0,0 c -1.228,0.105 -3.053,-0.041 -3.053,-0.041 0,0 -0.256,-1.831 -0.301,-2.328 -0.077,-0.811 0.017,-1.33 0.229,-1.894 0.322,-0.856 1.244,-1.96 1.78,-1.987 1.305,-0.069 3.86,1.128 3.86,3.782 C 2.515,-0.656 1.563,-0.131 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5705"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       transform="matrix(0.97437006,-0.22495106,0.22495106,0.97437006,0,-1.6784668e-4)"
+       sodipodi:linespacing="125%"
+       id="text5707"
+       y="1072.77"
+       x="1841.5164"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1072.77"
+         x="1841.5164"
+         sodipodi:role="line">&gt;</tspan><tspan
+         id="tspan5713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1124.27"
+         x="1841.5164"
+         sodipodi:role="line">.</tspan></text>
+    <text
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,-1.6784668e-4)"
+       sodipodi:linespacing="125%"
+       id="text5715"
+       y="1094.5269"
+       x="1676.257"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan5717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1094.5269"
+         x="1676.257"
+         sodipodi:role="line">&lt;</tspan><tspan
+         id="tspan5721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:102.99999714%;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';text-align:center;text-anchor:middle;fill:#000000;"
+         y="1146.0269"
+         x="1676.257"
+         sodipodi:role="line">,</tspan></text>
+    <flowRoot
+       transform="matrix(0.9816272,0.190809,-0.190809,0.9816272,59.886625,-36.836933)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5734"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5736"><rect
+           y="353.61252"
+           x="298.42441"
+           height="126.27395"
+           width="64.953865"
+           id="rect5738"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara5740"
+         style="font-size:50px;line-height:107.00000525%;text-align:center;text-anchor:middle;fill:#000000">~</flowPara><flowPara
+         id="flowPara5742"
+         style="font-size:50px;line-height:107.00000525%;text-align:center;text-anchor:middle;fill:#000000">`</flowPara></flowRoot>    <text
+       id="text5744"
+       class="kio-label"
+       transform="matrix(0.71933981,0.69465836,-0.69465836,0.71933981,0,0)"
+       x="782.79724"
+       y="-238.16649"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;opacity:1;fill:#000000;fill-opacity:1;">
+      <tspan
+         x="1360.0232"
+         y="336.70419"
+         id="tspan5746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Fn</tspan>
+    </text>
+    <text
+       transform="matrix(0.73135369,-0.68199837,0.68199837,0.73135369,0,0)"
+       id="text5748"
+       class="kio-label"
+       x="-93.223511"
+       y="1531.6072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';display:inline;opacity:1;fill:#000000;fill-opacity:1;">
+      <tspan
+         x="484.00311"
+         y="2106.479"
+         id="tspan5750"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Noto Sans Bamum';-inkscape-font-specification:'Noto Sans Bamum';fill:#000000;fill-opacity:1;">Fn</tspan>
+    </text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g6138"
      inkscape:label="label-template"
      style="display:none"
@@ -12245,7 +13332,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="overlay"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"
      transform="translate(0,-1.6784668e-4)">
     <g
