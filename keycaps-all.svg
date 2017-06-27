@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,16 +40,16 @@
      inkscape:window-height="1080"
      id="namedview5617"
      showgrid="false"
-     inkscape:zoom="0.72969833"
-     inkscape:cx="698.30471"
-     inkscape:cy="730.39456"
+     inkscape:zoom="0.18242458"
+     inkscape:cx="-518.65747"
+     inkscape:cy="735.99484"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3355"
+     inkscape:current-layer="layer14"
      units="mm"
      inkscape:document-units="mm"
-     showguides="false"
+     showguides="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
@@ -104,6 +104,11 @@
        position="615.03749,1840.1159"
        orientation="1,0"
        id="guide8580"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="180.33226,776.97316"
+       orientation="1,0"
+       id="guide11857"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <desc
@@ -4760,7 +4765,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="guides"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(1.0666667,0,0,1.0666667,214.13951,-888.91866)"
        inkscape:tile-y0="1204.37"
@@ -7830,7 +7835,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="bases"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path65525"
@@ -8730,7 +8735,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="webbing"
-     style="display:none">
+     style="display:inline">
     <g
        id="g11433"
        style="display:inline;fill:#008080;fill-opacity:0.50588223"
@@ -11476,7 +11481,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="stems"
-     style="display:none">
+     style="display:inline">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:0.87843137;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect66248"
@@ -14002,7 +14007,7 @@
     <path
        inkscape:transform-center-y="-187.85968"
        inkscape:transform-center-x="127.74698"
-       transform="translate(-87.224771,3.9857468e-5)"
+       transform="translate(-85.349771,3.9857468e-5)"
        d="m 702.57227,206.49023 c -0.11947,0.005 -0.23674,-0.007 -0.72071,0.36329 a 3.50035,3.50035 0 0 1 -0.01,0.008 c -0.9501,0.72026 -1.02311,0.64816 -0.95703,2.61523 a 3.50035,3.50035 0 0 1 0.002,0.14258 l -0.54688,75.04102 a 3.50035,3.50035 0 0 1 -0.002,0.10546 c -0.0459,1.23527 0.24103,1.92858 0.43555,2.17774 0.19452,0.24916 0.31677,0.44968 1.44726,0.46484 a 3.50035,3.50035 0 0 1 0.14649,0.006 c 10.03352,0.55467 21.59027,0.31997 31.79101,-0.66211 a 3.50035,3.50035 0 0 1 0.14453,-0.01 c 0.98829,-0.054 1.1531,-0.23399 1.375,-0.51758 0.22191,-0.28359 0.55218,-1.02573 0.52539,-2.49609 a 3.50035,3.50035 0 0 1 0,-0.041 l -0.17382,-26.625 a 3.50035,3.50035 0 0 1 0,-0.0449 c 0.0613,-10.30799 -0.92747,-18.67603 -4.29688,-25.91992 -4.97688,-10.56271 -15.42498,-18.15808 -27.91992,-24.15625 a 3.50035,3.50035 0 0 1 -0.13867,-0.0703 c -0.67762,-0.3633 -0.98457,-0.38569 -1.10156,-0.38086 z"
        inkscape:href="#path30718"
        id="path12520"
@@ -14624,7 +14629,7 @@
          id="g120422"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.92127,-952.93684)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.79627,-952.93684)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -14859,7 +14864,7 @@
              id="tspan17020-6-0-9-5-9-7"
              x="305.57193"
              y="1240.8011"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874985px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">pgdn</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">pgdn</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -15010,7 +15015,7 @@
          id="g120532"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.93391,-867.83059)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.80891,-867.83059)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -15173,7 +15178,7 @@
              id="tspan17020-6-0-9-9-5-7"
              x="305.57275"
              y="1240.8219"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874985px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">prog</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">prog</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -15240,7 +15245,7 @@
              id="tspan17020-6-0-9-7-2"
              x="305.56534"
              y="1240.7872"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874985px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">pgup</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px">pgup</tspan></text>
       </g>
       <g
          style="display:inline;stroke:#280b0b;stroke-width:0.9375"
@@ -15283,7 +15288,7 @@
          id="g120612"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.92856,-1038.0581)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.80356,-1038.0581)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -15412,7 +15417,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="matrix(0,-1,-1,0,0,0)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874972px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.71399"
              x="-1208.2581"
              id="tspan17020-6-8-1-7-9-0-7"
@@ -15444,7 +15449,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="matrix(0,-1,-1,0,0,0)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874971px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-300.0101"
              x="-1207.9635"
              id="tspan17020-6-8-1-7-9-0"
@@ -15476,7 +15481,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="matrix(0,-1,-1,0,0,0)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874974px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.74393"
              x="-1208.2621"
              id="tspan17020-6-8-1-7-9"
@@ -15508,7 +15513,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="matrix(0,-1,-1,0,0,0)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874977px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.89603"
              x="-1208.0164"
              id="tspan17020-6-8-1-7"
@@ -16377,7 +16382,7 @@
            x="1206.1366"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874977px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-300.00226"
              x="1206.1366"
              id="tspan17020-6-8-1-65-9"
@@ -16409,7 +16414,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="scale(-1,1)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874973px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="1240.7465"
              x="-339.34808"
              id="tspan17020-6-0-9-54-1-2-9"
@@ -16478,7 +16483,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="scale(-1,1)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874973px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="1240.7145"
              x="-339.57993"
              id="tspan17020-6-0-9-88-1"
@@ -16653,7 +16658,7 @@
            x="1205.8728"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874983px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.89148"
              x="1205.8728"
              id="tspan17020-6-8-1-65-9-0"
@@ -16685,7 +16690,7 @@
            x="1206.351"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874971px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.8959"
              x="1206.351"
              id="tspan17020-6-8-1-65-9-0-9"
@@ -16717,7 +16722,7 @@
            x="1206.1559"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874972px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="-299.76242"
              x="1206.1559"
              id="tspan17020-6-8-1-65-9-0-9-3"
@@ -16786,7 +16791,7 @@
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98000004;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            transform="scale(-1,1)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71874979px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#803300;fill-opacity:1;stroke-width:1px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875px;line-height:125%;font-family:'Gotham Rounded';-inkscape-font-specification:'Gotham Rounded, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#803300;fill-opacity:1;stroke-width:1px"
              y="1240.7736"
              x="-323.73273"
              id="tspan17020-6-0-9-9-36"
@@ -16843,7 +16848,7 @@
          y="0"
          xlink:href="#g120422"
          id="use25476"
-         transform="translate(615.86349,1138.2313)"
+         transform="translate(617.73849,1138.2313)"
          width="100%"
          height="100%" />
       <use
@@ -16942,7 +16947,7 @@
          y="0"
          xlink:href="#g120532"
          id="use25498"
-         transform="translate(615.81915,1214.5005)"
+         transform="translate(617.69415,1214.5005)"
          width="100%"
          height="100%" />
       <use
@@ -17014,7 +17019,7 @@
          y="0"
          xlink:href="#g120612"
          id="use25514"
-         transform="translate(615.81919,986.32251)"
+         transform="translate(617.69419,986.32251)"
          width="100%"
          height="100%" />
       <use
@@ -17122,7 +17127,7 @@
          y="0"
          xlink:href="#g131288"
          id="use25538"
-         transform="translate(-688.46374,1216.1381)"
+         transform="translate(-686.58874,1216.1381)"
          width="100%"
          height="100%" />
       <use
@@ -17293,7 +17298,7 @@
          y="0"
          xlink:href="#g131478"
          id="use25576"
-         transform="translate(-687.68914,987.9621)"
+         transform="translate(-685.81414,987.9621)"
          width="100%"
          height="100%" />
       <use
@@ -17370,7 +17375,7 @@
          height="100%" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Dvorak"
        id="g53306"
        inkscape:groupmode="layer">
@@ -17555,7 +17560,7 @@
              sodipodi:role="line">O</tspan></text>
       </g>
       <g
-         transform="matrix(1.0666667,0,0,1.0666667,287.92127,-952.93684)"
+         transform="matrix(1.0666667,0,0,1.0666667,289.79627,-952.93684)"
          inkscape:tile-y0="1204.37"
          inkscape:tile-x0="295.07874"
          id="g53358"
@@ -17941,7 +17946,7 @@
              sodipodi:role="line">;</tspan></text>
       </g>
       <g
-         transform="matrix(1.0666667,0,0,1.0666667,287.93391,-867.83059)"
+         transform="matrix(1.0666667,0,0,1.0666667,289.80891,-867.83059)"
          inkscape:tile-y0="1204.37"
          inkscape:tile-x0="295.07874"
          id="g53464"
@@ -18219,7 +18224,7 @@
              sodipodi:role="line">P</tspan></text>
       </g>
       <g
-         transform="matrix(1.0666667,0,0,1.0666667,287.92856,-1038.0581)"
+         transform="matrix(1.0666667,0,0,1.0666667,289.80356,-1038.0581)"
          inkscape:tile-y0="1204.37"
          inkscape:tile-x0="295.07874"
          id="g53538"
@@ -19781,7 +19786,7 @@
          style="display:inline;fill:#000080;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
          height="100%"
          width="100%"
-         transform="translate(615.86349,1138.2313)"
+         transform="translate(617.73849,1138.2313)"
          id="use53976"
          xlink:href="#g53358"
          y="0"
@@ -19880,7 +19885,7 @@
          style="display:inline;fill:#000080;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
          height="100%"
          width="100%"
-         transform="translate(615.81915,1214.5005)"
+         transform="translate(617.69415,1214.5005)"
          id="use53998"
          xlink:href="#g53464"
          y="0"
@@ -19952,7 +19957,7 @@
          style="display:inline;fill:#000080;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
          height="100%"
          width="100%"
-         transform="translate(615.81919,986.32251)"
+         transform="translate(617.69419,986.32251)"
          id="use54014"
          xlink:href="#g53538"
          y="0"
@@ -20231,7 +20236,7 @@
          style="display:inline;fill:#000080;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
          height="100%"
          width="100%"
-         transform="translate(-687.68914,987.9621)"
+         transform="translate(-685.81414,987.9621)"
          id="use54076"
          xlink:href="#g53886"
          y="0"
@@ -20313,7 +20318,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Colemak"
-       style="display:none">
+       style="display:inline">
       <g
          id="g68012"
          transform="matrix(1.3325056,0,0,1.3325056,-1318.0336,-1801.2418)"
@@ -20503,7 +20508,7 @@
          id="g120422-8"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.92127,-952.93678)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.79627,-952.93678)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -20889,7 +20894,7 @@
          id="g120532-5"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.93391,-867.83058)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.80891,-867.83058)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -21162,7 +21167,7 @@
          id="g120612-8"
          inkscape:tile-x0="295.07874"
          inkscape:tile-y0="1204.37"
-         transform="matrix(1.0666667,0,0,1.0666667,287.92856,-1038.0581)">
+         transform="matrix(1.0666667,0,0,1.0666667,289.80356,-1038.0581)">
         <rect
            inkscape:tile-y0="1149.37"
            inkscape:tile-x0="295"
@@ -22720,7 +22725,7 @@
          y="0"
          xlink:href="#g120422-8"
          id="use25476-5"
-         transform="translate(615.86349,1138.2313)"
+         transform="translate(617.73849,1138.2313)"
          width="100%"
          height="100%" />
       <use
@@ -22819,7 +22824,7 @@
          y="0"
          xlink:href="#g120532-5"
          id="use25498-4"
-         transform="translate(615.81915,1214.5005)"
+         transform="translate(617.69415,1214.5005)"
          width="100%"
          height="100%" />
       <use
@@ -22891,7 +22896,7 @@
          y="0"
          xlink:href="#g120612-8"
          id="use25514-5"
-         transform="translate(615.81919,986.32251)"
+         transform="translate(617.69419,986.32251)"
          width="100%"
          height="100%" />
       <use
@@ -23170,7 +23175,7 @@
          y="0"
          xlink:href="#g131478-9"
          id="use25576-8"
-         transform="translate(-687.68914,987.96211)"
+         transform="translate(-685.81414,987.96211)"
          width="100%"
          height="100%" />
       <use
